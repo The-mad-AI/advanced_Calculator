@@ -1,0 +1,2 @@
+khata dar show_tasks: TaskManager.show_tasks() missing 1 required positional argument: 'self'
+khata dar add_task: TaskManager.add_task() missing 1 required positional argument: 'title'
